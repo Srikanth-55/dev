@@ -1,0 +1,18 @@
+In Windows 11 Home Single Language Version 22H2 Build 22621.819 ,
+ 
+
+-------------09 DEC 2022---------------------------
+
+Youtube Live Stream issue == https://santabrowser.atlassian.net/browse/STA-373   
+
+
+Steps:
+1) launch Santa browser 
+2) click on Address field 
+3) type "https://www.youtube.com/" and enter
+4) click on any video, it will stream and in youtube search bar send keys as live and enter 
+5) select any live video stream and click it shows a error as "Your browser can't play this video"
+6) type " https://www.youtube.com/watch?v=II_m28Bm-iM " and click enter it shows a error as "Your browser can't play this video"
+ 
+-------------12 DEC 2022---------------------------
+
