@@ -1,7 +1,7 @@
 In Windows 11 Home Single Language Version 22H2 Build 22621.819 ,
  
 
--------------09 DEC 2022---------------------------
+-------------09 DEC 2022---------------------------*
 
 Youtube Live Stream issue == https://santabrowser.atlassian.net/browse/STA-373   
 
